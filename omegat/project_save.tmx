@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143328Z" creationid="liaronce" creationdate="20200912T143328Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143256Z" creationid="liaronce" creationdate="20200912T143256Z">
+        <seg>100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1024</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143251Z" creationid="liaronce" creationdate="20200912T143251Z">
+        <seg>1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>120</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143257Z" creationid="liaronce" creationdate="20200912T143257Z">
+        <seg>120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1280</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143251Z" creationid="liaronce" creationdate="20200912T143251Z">
+        <seg>1280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16 bit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143248Z" creationid="liaronce" creationdate="20200912T143248Z">
+        <seg>16 bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1600</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143252Z" creationid="liaronce" creationdate="20200912T143252Z">
+        <seg>1600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143328Z" creationid="liaronce" creationdate="20200912T143328Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143328Z" creationid="liaronce" creationdate="20200912T143328Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>32 bit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143249Z" creationid="liaronce" creationdate="20200912T143249Z">
+        <seg>32 bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>320</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143250Z" creationid="liaronce" creationdate="20200912T143250Z">
+        <seg>320</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>60</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143254Z" creationid="liaronce" creationdate="20200912T143254Z">
+        <seg>60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>640</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143250Z" creationid="liaronce" creationdate="20200912T143250Z">
+        <seg>640</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>70</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143254Z" creationid="liaronce" creationdate="20200912T143254Z">
+        <seg>70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>800</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143251Z" creationid="liaronce" creationdate="20200912T143251Z">
+        <seg>800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>85</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143255Z" creationid="liaronce" creationdate="20200912T143255Z">
+        <seg>85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2020&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142459Z" creationid="liaronce" creationdate="20200912T142459Z">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2020&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;new game&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142615Z" creationid="liaronce" creationdate="20200912T142615Z">
+        <seg>&lt;new game&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Android</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143401Z" creationid="liaronce" creationdate="20200912T143401Z">
+        <seg>Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Android (YYC)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143405Z" creationid="liaronce" creationdate="20200912T143405Z">
+        <seg>Android (YYC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143234Z" creationid="liaronce" creationdate="20200912T143234Z">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142616Z" creationid="liaronce" creationdate="20200912T142616Z">
+        <seg>Background</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143234Z" creationid="liaronce" creationdate="20200912T143234Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142617Z" creationid="liaronce" creationdate="20200912T142617Z">
+        <seg>Font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker 5.3 Files (*.gmd)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142551Z" creationid="liaronce" creationdate="20200912T142551Z">
+        <seg>Game Maker 5.3 Files (*.gmd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker 6 Files (*.gm6)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142551Z" creationid="liaronce" creationdate="20200912T142551Z">
+        <seg>Game Maker 6 Files (*.gm6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker 7/8 Files (*.gmk)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142551Z" creationid="liaronce" creationdate="20200912T142551Z">
+        <seg>Game Maker 7/8 Files (*.gmk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker 8.1 Files (*.gm81)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142550Z" creationid="liaronce" creationdate="20200912T142550Z">
+        <seg>Game Maker 8.1 Files (*.gm81)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker Backup Files (*.gb1;*.gb2;*.gb3;*.gb4;*.gb5;*.gb6;*.gb7;*.gb8;*.gb9)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142552Z" creationid="liaronce" creationdate="20200912T142552Z">
+        <seg>Game Maker Backup Files (*.gb1;*.gb2;*.gb3;*.gb4;*.gb5;*.gb6;*.gb7;*.gb8;*.gb9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Maker Studio Files (*.project.gmx)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142548Z" creationid="liaronce" creationdate="20200912T142548Z">
+        <seg>Game Maker Studio Files (*.project.gmx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTML5</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143400Z" creationid="liaronce" creationdate="20200912T143400Z">
+        <seg>HTML5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hz</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143254Z" creationid="liaronce" creationdate="20200912T143254Z">
+        <seg>Hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143233Z" creationid="liaronce" creationdate="20200912T143233Z">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Include</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142618Z" creationid="liaronce" creationdate="20200912T142618Z">
+        <seg>Include</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142704Z" creationid="liaronce" creationdate="20200912T142704Z">
+        <seg>Includes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LateralGM: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142614Z" creationid="liaronce" creationdate="20200912T142614Z">
+        <seg>LateralGM: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mac</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143310Z" creationid="liaronce" creationdate="20200912T143310Z">
+        <seg>Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143400Z" creationid="liaronce" creationdate="20200912T143400Z">
+        <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143233Z" creationid="liaronce" creationdate="20200912T143233Z">
+        <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143235Z" creationid="liaronce" creationdate="20200912T143235Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142550Z" creationid="liaronce" creationdate="20200912T142550Z">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6;*.gmd)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142549Z" creationid="liaronce" creationdate="20200912T142549Z">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6;*.gmd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143234Z" creationid="liaronce" creationdate="20200912T143234Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142616Z" creationid="liaronce" creationdate="20200912T142616Z">
+        <seg>Path</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143235Z" creationid="liaronce" creationdate="20200912T143235Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Room</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142618Z" creationid="liaronce" creationdate="20200912T142618Z">
+        <seg>Room</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143234Z" creationid="liaronce" creationdate="20200912T143234Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142616Z" creationid="liaronce" creationdate="20200912T142616Z">
+        <seg>Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shader</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142616Z" creationid="liaronce" creationdate="20200912T142616Z">
+        <seg>Shader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142615Z" creationid="liaronce" creationdate="20200912T142615Z">
+        <seg>Sound</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sprite</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142615Z" creationid="liaronce" creationdate="20200912T142615Z">
+        <seg>Sprite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143234Z" creationid="liaronce" creationdate="20200912T143234Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timeline</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142617Z" creationid="liaronce" creationdate="20200912T142617Z">
+        <seg>Timeline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tizen (Javascript)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143404Z" creationid="liaronce" creationdate="20200912T143404Z">
+        <seg>Tizen (Javascript)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tizen (Native)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143404Z" creationid="liaronce" creationdate="20200912T143404Z">
+        <seg>Tizen (Native)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ubuntu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143310Z" creationid="liaronce" creationdate="20200912T143310Z">
+        <seg>Ubuntu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ubuntu (Linux)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143403Z" creationid="liaronce" creationdate="20200912T143403Z">
+        <seg>Ubuntu (Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143310Z" creationid="liaronce" creationdate="20200912T143310Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows (YYC)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143404Z" creationid="liaronce" creationdate="20200912T143404Z">
+        <seg>Windows (YYC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows 8 (Javascript)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143403Z" creationid="liaronce" creationdate="20200912T143403Z">
+        <seg>Windows 8 (Javascript)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows 8 (Native)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143403Z" creationid="liaronce" creationdate="20200912T143403Z">
+        <seg>Windows 8 (Native)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows Phone 8</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143403Z" creationid="liaronce" creationdate="20200912T143403Z">
+        <seg>Windows Phone 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143343Z" creationid="liaronce" creationdate="20200912T143343Z">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 1024</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143252Z" creationid="liaronce" creationdate="20200912T143252Z">
+        <seg>X 1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 1200</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143252Z" creationid="liaronce" creationdate="20200912T143252Z">
+        <seg>X 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 240</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143250Z" creationid="liaronce" creationdate="20200912T143250Z">
+        <seg>X 240</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 480</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143250Z" creationid="liaronce" creationdate="20200912T143250Z">
+        <seg>X 480</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 600</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143251Z" creationid="liaronce" creationdate="20200912T143251Z">
+        <seg>X 600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X 768</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143251Z" creationid="liaronce" creationdate="20200912T143251Z">
+        <seg>X 768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143321Z" creationid="liaronce" creationdate="20200912T143321Z">
+        <seg>X:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Y</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143344Z" creationid="liaronce" creationdate="20200912T143344Z">
+        <seg>Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Y:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143321Z" creationid="liaronce" creationdate="20200912T143321Z">
+        <seg>Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+~!@#$%^&amp;*()_+{}|:"&lt;&gt;?`-=[];',./
+The quick brown fox jumps over the lazy dog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143336Z" creationid="liaronce" creationdate="20200912T143336Z">
+        <seg>abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+~!@#$%^&amp;*()_+{}|:"&lt;&gt;?`-=[];',./
+The quick brown fox jumps over the lazy dog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iOS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143400Z" creationid="liaronce" creationdate="20200912T143400Z">
+        <seg>iOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iOS (YYC)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143406Z" creationid="liaronce" creationdate="20200912T143406Z">
+        <seg>iOS (YYC)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.CST</prop>
+      <tuv lang="en-US">
+        <seg>Constants</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142936Z" creationid="liaronce" creationdate="20200912T142936Z">
+        <seg>Constants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.EXT</prop>
+      <tuv lang="en-US">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143228Z" creationid="liaronce" creationdate="20200912T143228Z">
+        <seg>Extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.GMI</prop>
+      <tuv lang="en-US">
+        <seg>Game Information</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142944Z" creationid="liaronce" creationdate="20200912T142944Z">
+        <seg>Game Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.GMS</prop>
+      <tuv lang="en-US">
+        <seg>Game Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142950Z" creationid="liaronce" creationdate="20200912T142950Z">
+        <seg>Game Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.OBJ</prop>
+      <tuv lang="en-US">
+        <seg>Object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143451Z" creationid="liaronce" creationdate="20200912T143451Z">
+        <seg>Object</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PKG</prop>
+      <tuv lang="en-US">
+        <seg>Extension Packages</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143147Z" creationid="liaronce" creationdate="20200912T143147Z">
+        <seg>Extension Packages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_BKG</prop>
+      <tuv lang="en-US">
+        <seg>Backgrounds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143002Z" creationid="liaronce" creationdate="20200912T143002Z">
+        <seg>Backgrounds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_CST</prop>
+      <tuv lang="en-US">
+        <seg>Constants</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143046Z" creationid="liaronce" creationdate="20200912T143046Z">
+        <seg>Constants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_EXT</prop>
+      <tuv lang="en-US">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143041Z" creationid="liaronce" creationdate="20200912T143041Z">
+        <seg>Extensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_FNT</prop>
+      <tuv lang="en-US">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143023Z" creationid="liaronce" creationdate="20200912T143023Z">
+        <seg>Fonts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_GMI</prop>
+      <tuv lang="en-US">
+        <seg>Game Information</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143050Z" creationid="liaronce" creationdate="20200912T143050Z">
+        <seg>Game Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_GMS</prop>
+      <tuv lang="en-US">
+        <seg>Game Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143056Z" creationid="liaronce" creationdate="20200912T143056Z">
+        <seg>Game Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_OBJ</prop>
+      <tuv lang="en-US">
+        <seg>Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143033Z" creationid="liaronce" creationdate="20200912T143033Z">
+        <seg>Objects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_PKG</prop>
+      <tuv lang="en-US">
+        <seg>Extension Packages</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143156Z" creationid="liaronce" creationdate="20200912T143156Z">
+        <seg>Extension Packages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_PTH</prop>
+      <tuv lang="en-US">
+        <seg>Paths</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143006Z" creationid="liaronce" creationdate="20200912T143006Z">
+        <seg>Paths</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_RMM</prop>
+      <tuv lang="en-US">
+        <seg>Rooms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143037Z" creationid="liaronce" creationdate="20200912T143037Z">
+        <seg>Rooms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_SCR</prop>
+      <tuv lang="en-US">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143013Z" creationid="liaronce" creationdate="20200912T143013Z">
+        <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_SHR</prop>
+      <tuv lang="en-US">
+        <seg>Shaders</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143020Z" creationid="liaronce" creationdate="20200912T143020Z">
+        <seg>Shaders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_SND</prop>
+      <tuv lang="en-US">
+        <seg>Sounds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142958Z" creationid="liaronce" creationdate="20200912T142958Z">
+        <seg>Sounds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_SPR</prop>
+      <tuv lang="en-US">
+        <seg>Sprites</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T142954Z" creationid="liaronce" creationdate="20200912T142954Z">
+        <seg>Sprites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messages.properties</prop>
+      <prop type="id">LGM.PL_TML</prop>
+      <tuv lang="en-US">
+        <seg>Timelines</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T143028Z" creationid="liaronce" creationdate="20200912T143028Z">
+        <seg>Timelines</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
